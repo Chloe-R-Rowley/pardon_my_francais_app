@@ -24,7 +24,7 @@ This repository only contains the front-end of the app. It was developed using F
 
 ## Screenshots and Demo
 
-**Click oon the below link to view the screenshots and demo of the app**
+**Click on the below link to view the screenshots and demo of the app**
 
 [Click here](screenshots/)
 
